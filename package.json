@@ -1,9 +1,9 @@
 {
-  "name": "my-addon",
+  "name": "First add-on",
   "title": "my-addon",
   "id": "jid1-uIYGZYtkxBs3xQ",
   "description": "a basic add-on",
-  "author": "",
+  "author": "Plugaru Tudor",
   "license": "MPL 2.0",
   "version": "0.1"
 }
