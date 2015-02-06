@@ -1,2 +1,1 @@
-# Firefox-Add-on
-Tested Add-on SDK from Firefox. 
+Tested Add-on SDK from Firefox.
