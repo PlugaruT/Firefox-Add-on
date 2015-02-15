@@ -1,6 +1,6 @@
 {
-  "name": "First add-on",
-  "title": "my-addon",
+  "name": "first-add-on",
+  "title": "green/red bar",
   "id": "jid1-uIYGZYtkxBs3xQ",
   "description": "a basic add-on for Firefox",
   "author": "Plugaru Tudor",
